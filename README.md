@@ -6,3 +6,4 @@ This is a personal changelog of my updates for a 30 day challenge with Alumni fr
 ### Monday, November 4th, 2019
 - Setup Change Log Repo
 - Setup Dev Environment for [Advanced React and GraphQL](https://advancedreact.com//).
+- Started Advanced React Course
